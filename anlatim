@@ -3,5 +3,6 @@ git dersleri hakkında
 2 git merge
 3 git stash clear 
 4 git stash appy
-5 git chech out
-6 daha ne olsun
+5 git chechout
+6 git reset ve revers 
+7 git diff
